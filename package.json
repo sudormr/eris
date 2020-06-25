@@ -51,8 +51,8 @@
     "typescript": "^3.7.4"
   },
   "optionalDependencies": {
-    "opusscript": "^0.0.7",
-    "tweetnacl": "^1.0.1"
+    "node-libopus": "Taosenai/node-libopus",
+    "sodium-native": "^3.2.0"
   },
   "browser": {
     "child_process": false,
